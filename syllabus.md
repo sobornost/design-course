@@ -50,7 +50,7 @@
 Pevsner, N. Pioneers of Modern Design / главы 1-3 — London: Penguin Books, 2005  
 Веблен, Т. Теория праздного класса / глава «Денежные каноны вкуса». — М.: Прогресс, 1984  
 
-### 3. Семинар. Орнамент и преступление?
+### 3. Семинар. Орнамент или преступление?
 **Литература:**  
 Моррис, У. «Искусства и ремесла наших дней» / Моррис У. Искусство и жизнь. Избранные статьи, лекции, речи, письма. М.: Искусство, 1973. с.294–313  
 Elizabeth Carolyn Miller — William Morris and the Form and Politics of Replication / Replication in the Long Nineteenth Century, Edinburgh University Press, 2019  

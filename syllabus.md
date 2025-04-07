@@ -142,10 +142,10 @@ John Harwood – Chapter 1. / The Interface IBM and the Transformation of Corpor
 Реапроприация западной теории и практики дизайна. Советская теория и практика дизайна — Карл Кантор, Евгений Розенблюм, Дмитрий Азрикан и др.
 
 **Литература:**
-Кантор Карл. Производственное (промышленное) искусство будущего / Кантор К. Красота и польза, М. Искусство, 1967, с.184-200
-Yulia Karpova (2013) Accommodating ‘design’: introducing the Western concept into Soviet art theory in the 1950s–60s, European Review of History, 20:4, 627-647
-Новоженова А. Почти абстрактно. Утилитарная функция, медиум и подобие в послесталинской системе искусств / Напреенко Г., Новоженова А. Эпизоды модернизма: от истоков до кризиса. М., НЛО, 2018
-Снопек К. — Беляево навсегда: сохранение непримечательного, Strelka Press, 2014
+Кантор Карл. Производственное (промышленное) искусство будущего / Кантор К. Красота и польза, М. Искусство, 1967, с.184-200  
+Yulia Karpova (2013) Accommodating ‘design’: introducing the Western concept into Soviet art theory in the 1950s–60s, European Review of History, 20:4, 627-647  
+Новоженова А. Почти абстрактно. Утилитарная функция, медиум и подобие в послесталинской системе искусств / Напреенко Г., Новоженова А. Эпизоды модернизма: от истоков до кризиса. М., НЛО, 2018  
+Снопек К. — Беляево навсегда: сохранение непримечательного, Strelka Press, 2014  
 
 ### 11. Семинар. Дизайн институции 
 Приглашенный участник: 
@@ -163,12 +163,12 @@ Herbert Bayer — Aspects of Design of Exhibitions and Museums (1961)
 Графический интерфейс и его метафоры. Влияние персонального компьютера и интернета на дизайн. Цифровые шрифты — дискуссия в журнале Emigre. Бедное изображение (Хито Штейрль). Рассеивание (Сет Прайс).
 
 **Литература:**
-Монтфорт Н. Как компьютер стал книгой / Будущее: принципы и практики созидания. М.: Strelka Press, 2021. С. 98-118
-Alan F. Blackwell – The reification of metaphor as a design tool. ACM Transactions on Computer-Human Interaction (TOCHI), Volume 13, Issue 4, p. 490–530
-Kinross, R. – The digital wave, 1992 https://www.eyemagazine.com/feature/article/the-digital-wave
-Kris Sowersby – Signifier design information https://klim.co.nz/blog/signifier-design-information/
-Price, S. Dispersion. — 2002 http://www.distributedhistory.com/Dispersion2016.pdf
-Штейерль Х. В защиту бедного изображения / По ту сторону репрезентации. Нижний Новгород: Красная ласточка, 2021, с.17–27
+Монтфорт Н. Как компьютер стал книгой / Будущее: принципы и практики созидания. М.: Strelka Press, 2021. С. 98-118  
+Alan F. Blackwell – The reification of metaphor as a design tool. ACM Transactions on Computer-Human Interaction (TOCHI), Volume 13, Issue 4, p. 490–530  
+Kinross, R. – The digital wave, 1992 https://www.eyemagazine.com/feature/article/the-digital-wave  
+Kris Sowersby – Signifier design information https://klim.co.nz/blog/signifier-design-information/  
+Price, S. Dispersion. — 2002 http://www.distributedhistory.com/Dispersion2016.pdf  
+Штейерль Х. В защиту бедного изображения / По ту сторону репрезентации. Нижний Новгород: Красная ласточка, 2021, с.17–27  
 
 **Методические материалы:**
 Гайд. Цифровые шрифты и что с ними делать
@@ -182,6 +182,8 @@ Price, S. Dispersion. — 2002 http://www.distributedhistory.com/Dispersion2016.
 
 В случае пропуска по уважительной причине — альтернативный вариант — запись видеопрезентации/скринкаста с рассказом об исследовании (в течение 1 недели после занятия)
 
+---
+**24 апреля, 18:40-20:10**
 ### 14. Показ. Просмотр и обсуждение современных работ в области дизайна
 
 Просмотр и обсуждение фильма Ethics for Design
@@ -193,8 +195,10 @@ Price, S. Dispersion. — 2002 http://www.distributedhistory.com/Dispersion2016.
 **Критерии:** участие в обсуждении, подготовка и анализ визуального материала
 
 ---
-**24 апреля, 18:40-20:10**
-### 15. Лекция. Дизайн как отношение
+**15 мая, 18:40-20:10**
+### 15. Практика. Доработка и упаковка брифов
+
+### \*16. Лекция. Дизайн как отношение
 
 Современные междисциплинарные практики дизайна (дизайн-фикшн, критический дизайн, спекулятивный дизайн). 
 
@@ -202,10 +206,6 @@ Price, S. Dispersion. — 2002 http://www.distributedhistory.com/Dispersion2016.
 Данн Э., Рэби Ф. Спекулятивный мир. Дизайн, воображение и социальное визионерство — М.: Strelka Press, 2017 г.
 Metahaven. Digital Tarkovsky. –  Strelka press, 2019
 James Langdon – GILBERT ADAIR CONTINUED / Servinglibrary.org https://www.servinglibrary.org/journal/7/gilbert-adair-continued
-
----
-**15 мая, 18:40-20:10**
-### 16. Практика. Доработка и упаковка брифов
 
 ---
 **4 июня, 17:00—18:40**
